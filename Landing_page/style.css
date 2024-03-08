@@ -1,0 +1,63 @@
+ @import url('https://fonts.googleapis.com/css2?family=WindSong&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Glass+Antiqua&display=swap');
+
+        html {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        div {
+            width: 500px;
+            height: 87.4vh;
+            color: #ffffff;
+            padding: 90px;
+            overflow: hidden;
+            position: absolute;
+            left: 9vw;
+            text-align: left;
+        }
+
+        h1 {
+            font-family: 'Glass Antiqua';
+            font-size: 70px;
+            font-style: bold;
+            color: black;
+        }
+
+        p {
+            letter-spacing: 1px;
+            line-height: 25px;
+            font-style: italic;
+            font-weight: 400;
+            font-size: 20px;
+            color: black;
+        }
+
+        nav {
+            float: right;
+            text-transform: uppercase;
+            font-family: "Times New Roman", Times, serif;
+            letter-spacing: 2px;
+            font-size:30px;
+            margin-top: 5vh;
+        }
+
+        a {
+            color: black;
+        }
+
+        .nav-link {
+            text-decoration: none;
+            color:red;
+            margin-right: 30px;
+		font-style:bold;
+            font-size: 30px;
+        }
+
+        .image {
+            position: absolute;
+  top: 15%;
+  left: 56%;
+        }
